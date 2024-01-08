@@ -2,7 +2,9 @@
 
 ## 프로젝트 진행 기간
 SSAFY 9기 2학기 공통 프로젝트
+
 2023.07.03(월) ~ 2023.08.18(금) 7주간 진행
+
 <br/><br/>
 ## 프로젝트 소개
 - 프로젝트 명 : 비대면 이사 견적 서비스
@@ -18,14 +20,7 @@ SSAFY 9기 2학기 공통 프로젝트
     - EC2
     - Redis
 <br/><br/>
-## 팀소개
-- 손승연 : Team Leader, BE, Amazon S3
-- 정호빈 : BE Leader, openvidu
-- 신승헌 : FE Leader, UI/UX
-- 김승용 : FE, openvidu
-- 김라현 : BE, All Rounder
-- 김현중 : FE, Infra
-<br/><br/>
+
 ## 협업 도구
 - Jira
     - 매일 아침 스크럼을 통해 작일 이슈를 공유하고 금일 일정을 조율하였습니다.
@@ -35,6 +30,7 @@ SSAFY 9기 2학기 공통 프로젝트
 - GitLab
     - 각자 나눈 역할에 맞는 브랜치를 나누고 각 커밋을 지라의 이슈와 연결하며 프로젝트를 진행했습니다.
 <br/><br/>
+
 ## ERD
 ![image](https://github.com/ssh5212/moving248/assets/133843645/3107a0df-e487-4721-be08-ac91cb98b9c4)
 <br/><br/>
